@@ -1,15 +1,15 @@
-# Weather-App
+# ☁️ Weather-App
 
-## Overview
+## 🪟 Overview
 The Weather App is a simple and interactive web application that provides real-time weather updates for any city worldwide. It fetches weather data from an API and displays details like temperature, humidity, wind speed, and weather conditions.
 
-## Features
-- Search weather by city name
-- Display real-time temperature, humidity, and wind speed
-- Show weather conditions with icons
-- User-friendly and responsive design
+## 🚀Features
+- 🔍 Search weather by city name
+-  ⌛ Display real-time temperature, humidity, and wind speed
+-  ☀️ Show weather conditions with icons
+- ✨ User-friendly and responsive design
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
